@@ -1,2 +1,2 @@
 # DaaT-and-TaaT
-DaaT and TaaT implementation : CSE 535 Information Retrieval
+DaaT(Document at a time) and TaaT(Term at a time) implementation : CSE 535 Information Retrieval
